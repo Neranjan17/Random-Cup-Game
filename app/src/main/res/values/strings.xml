@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CupGame</string>
+    <string name="Round_Count">Round - 00</string>
+    <string name="Select_Cup_One">Select Cup 1</string>
+    <string name="Select_Cup_Tow">Select Cup 2</string>
+    <string name="noteText">Look, there is nothing. Would you like to change your guess now ?</string>
+    <string name="Select_Cup_Three">Select Cup 3</string>
+    <string name="correctGuess">Your guess is correct</string>
+    <string name="wrongGuess">Your guess is wrong</string>
+    <string name="show_records">Show Records</string>
+    <string name="hide_records">Hide Records</string>
+    <string name="win">Win -</string>
+    <string name="lost">Lost -</string>
+    <string name="percentage">Percentage -</string>
+    <string name="btn_yes">YES</string>
+    <string name="btn_no">NO</string>
+    <string name="select_text">Select</string>
+    <string name="btn_run">Run</string>
+    <string name="et_AutoR_hint">auto rounds</string>
+    <string name="error_toast">Invalid</string>
+    <string name="always_select">always select      -</string>
+
+
+
+
+</resources>
